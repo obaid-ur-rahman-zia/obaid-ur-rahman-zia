@@ -1,13 +1,13 @@
 <div align="center">
 
-  <a href="inno.spark.developers@gmail.com" target="_blank">
+  <a href="figrammers.official.agency@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email%20us&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<h1 align="center">Welcome to Inno Spark Developers 👋</h1>
+<h1 align="center">Welcome to Figrammers 👋</h1>
 
 ###
 
@@ -15,11 +15,11 @@
 
 ###
 
-<p align="left">Inno Spark Developers is a leading tech agency dedicated to crafting innovative digital experiences. Specializing in web development, app development, software solutions and graphic design we merge creativity with cutting-edge technology to deliver solutions that help businesses thrive in the digital age. Our team of expert developers, designers, and creatives work together to forge custom solutions tailored to the unique needs of each client.</p>
+<p align="left">Figrammers is a leading tech agency dedicated to crafting innovative digital experiences. Specializing in web development, app development, software solutions and graphic design we merge creativity with cutting-edge technology to deliver solutions that help businesses thrive in the digital age. Our team of expert developers, designers, and creatives work together to forge custom solutions tailored to the unique needs of each client.</p>
 
 ###
 
-<h3>📍 Note</h3><p>Most of our repositories are private to maintain client confidentiality</p>
+<h2>📍 Note</h3><p>Most of our repositories are private to maintain client confidentiality</p>
 
 ###
 
