@@ -72,7 +72,7 @@ I work across **web, mobile, 3D, and infrastructure**, combining strong engineer
 ## 📊 Skill Graph (Visual)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ObaidUrRahmanZia&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaid-ur-rahman-zia&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
