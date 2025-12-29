@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Obaid Ur Rahman Zia</h1>
-
 <h3 align="center">
 Founder @ Plivix • Full-Stack Developer (Since 2019) • 3D Web Developer • DevOps Engineer
 </h3>
@@ -12,26 +11,34 @@ Founder @ Plivix • Full-Stack Developer (Since 2019) • 3D Web Developer • 
 
 ## 🧠 About Me
 
-I’m **Obaid Ur Rahman Zia**, a **Full-Stack Developer since 2019** and the **Founder of Plivix**, a technology agency focused on building scalable, high-quality, and future-ready digital products.
+I’m **Obaid Ur Rahman Zia**, a **Full-Stack Developer since 2019** and the **Founder of Plivix**, building scalable, high-quality digital products.
 
-I work across **web, mobile, 3D, and infrastructure**, combining strong engineering with clean UI/UX and reliable deployments.
+I work across **web, mobile, 3D, and infrastructure**, combining strong engineering with clean UI/UX.
 
 ---
 
 ## 💼 Current Roles & Work
 
-- 🎮 **3D Web Developer** at **Visiontillion**
-  - Three.js, React Three Fiber, interactive 3D experiences
-- ⚙️ **Manager & DevOps Engineer** at **Switch2iTech**
-  - Infrastructure, CI/CD, deployments, server management
-- 🏢 **Founder & Lead Engineer** at **Plivix**
-- 🏆 **Fiverr Level One Seller**
-- 🌍 **Upwork Service Provider (BH Region)**
-- 🤝 Worked with **many international clients**
+<details>
+<summary>Click to expand 🌟</summary>
+
+| Role | Company / Platform | Key Technologies |
+|------|-----------------|----------------|
+| 3D Web Developer | Visiontillion | Three.js, React Three Fiber |
+| Manager & DevOps Engineer | Switch2iTech | CI/CD, Server Management, Cloud |
+| Founder & Lead Engineer | Plivix | Full-Stack Web, Mobile Apps |
+| Freelancer | Fiverr & Upwork | Full-Stack, 3D, DevOps |
+| Seller Level | Fiverr | Level One |
+| Service Provider | Upwork | Multiple International Clients |
+
+</details>
 
 ---
 
 ## 🧭 Experience Timeline
+
+<details>
+<summary>Click to expand ⏳</summary>
 
 2019 ───────────────────────────────▶ Present
 
@@ -44,21 +51,27 @@ I work across **web, mobile, 3D, and infrastructure**, combining strong engineer
 └─ Freelancing & Client Services (Fiverr & Upwork)
 
 
+
+</details>
+
 ---
 
 ## 🧩 Core Expertise
+
+<details>
+<summary>Click to expand 💡</summary>
 
 ### 💻 Full-Stack Development
 - Next.js, React, Node.js
 - REST & GraphQL APIs
 - MongoDB, PostgreSQL, MySQL
-- React Native (Mobile Apps)
+- React Native
 
 ### 🎮 3D & Interactive Web
 - Three.js
 - React Three Fiber
 - Web-based 3D Experiences
-- Performance & Shader Optimization
+- Shader & Performance Optimization
 
 ### ⚙️ DevOps & Infrastructure
 - Docker & Kubernetes
@@ -67,13 +80,7 @@ I work across **web, mobile, 3D, and infrastructure**, combining strong engineer
 - VPS & Cloud Server Management
 - AWS, GCP, Azure
 
----
-
-## 📊 Skill Graph (Visual)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaid-ur-rahman-zia&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</details>
 
 ---
 
@@ -85,7 +92,7 @@ I work across **web, mobile, 3D, and infrastructure**, combining strong engineer
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=obaid-ur-rahman-zia&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
@@ -100,12 +107,17 @@ I work across **web, mobile, 3D, and infrastructure**, combining strong engineer
 
 ## 🌍 Freelance & Business
 
-- 🏢 **Founder & Lead Engineer – Plivix**
-- 🏆 **Fiverr Level One Seller**
-- 💼 **Upwork (BH Region)**
-- 🤝 Long-term international clients
+<details>
+<summary>Click to expand 🌐</summary>
 
-> **Note:** Most professional repositories are private to maintain client confidentiality.
+- 🏢 Founder & Lead Engineer – Plivix  
+- 🏆 Fiverr Level One Seller  
+- 💼 Upwork (BH Region)  
+- 🤝 Multiple International Clients  
+
+> **Note:** Most professional repositories are private for client confidentiality.
+
+</details>
 
 ---
 
