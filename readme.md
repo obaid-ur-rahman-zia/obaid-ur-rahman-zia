@@ -19,8 +19,6 @@ I work across **web, mobile, 3D, and infrastructure**, combining strong engineer
 
 ## 💼 Current Roles & Work
 
-<details>
-<summary>Click to expand 🌟</summary>
 
 | Role | Company / Platform | Key Technologies |
 |------|-----------------|----------------|
@@ -31,7 +29,6 @@ I work across **web, mobile, 3D, and infrastructure**, combining strong engineer
 | Seller Level | Fiverr | Level One |
 | Service Provider | Upwork | Multiple International Clients |
 
-</details>
 
 ---
 
