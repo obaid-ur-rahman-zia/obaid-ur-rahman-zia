@@ -4,7 +4,7 @@ Founder @Plivix • Full-Stack Developer (Since 2019) • 3D Web Developer • D
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Founder+of+Plivix;Full+Stack+Developer+since+2019;3D+Developer+%7C+Three.js+%26+React+Three+Fiber;DevOps+%7C+Server+Management;Freelancer+on+Fiverr+%26+Upwork;Building+Scalable+Digital+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=22&pause=500&color=38BDF8&center=true&vCenter=true&width=800&lines=Founder+of+Plivix;Full+Stack+Developer+since+2019;3D+Developer+%7C+Three.js+%26+React+Three+Fiber;DevOps+%7C+Server+Management;Freelancer+on+Fiverr+%26+Upwork;Building+Scalable+Digital+Products" />
 </p>
 
 ---
@@ -34,9 +34,6 @@ I work across **web, mobile, 3D, and infrastructure**, combining strong engineer
 
 ## 🧭 Experience Timeline
 
-<details>
-<summary>Click to expand ⏳</summary>
-
 2019 ───────────────────────────────▶ Present
 
 ├─ Full-Stack Web Development  
@@ -47,16 +44,9 @@ I work across **web, mobile, 3D, and infrastructure**, combining strong engineer
 ├─ 3D Web Development (Three.js & React Three Fiber)  
 └─ Freelancing & Client Services (Fiverr & Upwork)
 
-
-
-</details>
-
 ---
 
 ## 🧩 Core Expertise
-
-<details>
-<summary>Click to expand 💡</summary>
 
 ### 💻 Full-Stack Development
 - Next.js, React, Node.js
@@ -76,8 +66,6 @@ I work across **web, mobile, 3D, and infrastructure**, combining strong engineer
 - Linux, Nginx
 - VPS & Cloud Server Management
 - AWS, GCP, Azure
-
-</details>
 
 ---
 
@@ -104,17 +92,12 @@ I work across **web, mobile, 3D, and infrastructure**, combining strong engineer
 
 ## 🌍 Freelance & Business
 
-<details>
-<summary>Click to expand 🌐</summary>
-
 - 🏢 Founder & Lead Engineer – Plivix  
 - 🏆 Fiverr Level One Seller  
 - 💼 Upwork (BH Region)  
 - 🤝 Multiple International Clients  
 
 > **Note:** Most professional repositories are private for client confidentiality.
-
-</details>
 
 ---
 
