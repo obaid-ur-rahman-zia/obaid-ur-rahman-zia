@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Obaid Ur Rahman Zia</h1>
 <h3 align="center">
-Founder @Plivix • Full-Stack Developer (Since 2019) • 3D Web Developer • DevOps Engineer
+Founder @Plivix • AI Engineer / Data Scientist + Full Stack Developer (Since 2019) • 3D Web Developer • DevOps Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=22&pause=500&color=38BDF8&center=true&vCenter=true&width=800&lines=Founder+of+Plivix;Full+Stack+Developer+since+2019;3D+Developer+%7C+Three.js+%26+React+Three+Fiber;DevOps+%7C+Server+Management;Freelancer+on+Fiverr+%26+Upwork;Building+Scalable+Digital+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=22&pause=500&color=38BDF8&center=true&vCenter=true&width=800&lines=Founder+of+Plivix;Full+Stack+Developer+since+2019;Data+Scientist+%7C+Machine+Learning;3D+Developer+%7C+Three.js+%26+React+Three+Fiber;DevOps+%7C+Server+Management;Freelancer+on+Fiverr+%26+Upwork;Building+Scalable+Digital+Products" />
 </p>
 
 ---
@@ -67,12 +67,26 @@ I work across **web, mobile, 3D, and infrastructure**, combining strong engineer
 - VPS & Cloud Server Management
 - AWS, GCP, Azure
 
+### 🤖 Data Science & AI
+
+- Data Analysis & Exploratory Data Analysis (EDA)
+- Data Cleaning & Feature Engineering
+- Machine Learning Models (Classification, Regression, Clustering)
+- Model Optimization & XGBoost
+- Explainable AI (SHAP, LIME)
+- NLP Applications (Text Classification, Sentiment Analysis)
+- Time Series Forecasting (AR, MA, ARMA, SARIMA, SARIMAX)
+- Deep Learning (ANN, CNN, RNN, LSTM, GRU)
+- Data Visualization (Matplotlib, Seaborn, Plotly)
+- ML Model Deployment with Streamlit
+
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,threejs,ts,js,nodejs,python,figma,git,docker,kubernetes,linux,nginx,mongodb,postgres,redis,aws,gcp,azure,tailwind,reactnative&perline=7" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,threejs,ts,js,nodejs,python,tensorflow,sklearn,docker,kubernetes,linux,nginx,mongodb,postgres,redis,aws,gcp,azure,tailwind,reactnative&perline=7" />
 </p>
 
 ---
