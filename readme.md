@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Obaid Ur Rahman Zia</h1>
 <h3 align="center">
-Founder @Plivix • AI Engineer / Data Scientist + Full Stack Developer (Since 2019) • 3D Web Developer • DevOps Engineer
+Founder @Plivix • AI Engineer / Data Scientist + Full Stack Developer (Since 2019) • 3D Web • DevOps Engineer
 </h3>
 
 <p align="center">
