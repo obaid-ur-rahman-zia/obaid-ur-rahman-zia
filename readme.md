@@ -1,130 +1,67 @@
-<h1 align="center">Hi 👋, I'm Obaid Ur Rahman Zia</h1>
-<h3 align="center">
-Founder @Plivix • AI Engineer / Data Scientist + Full Stack Developer (Since 2019) • 3D Web • DevOps Engineer
-</h3>
+<h1>Obaid Ur Rahman Zia</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=22&pause=500&color=38BDF8&center=true&vCenter=true&width=800&lines=Founder+of+Plivix;Full+Stack+Developer+since+2019;Data+Scientist+%7C+Machine+Learning;3D+Developer+%7C+Three.js+%26+React+Three+Fiber;DevOps+%7C+Server+Management;Freelancer+on+Fiverr+%26+Upwork;Building+Scalable+Digital+Products" />
+<p>
+  Full-Stack Developer · AI Engineer · Founder, <a href="https://plivix-tech.com">Plivix Technologies</a>
+</p>
+
+<p>
+  <a href="mailto:obaid107333@gmail.com">obaid107333@gmail.com</a> &nbsp;·&nbsp;
+  Pakistan (Remote-first)
 </p>
 
 ---
 
-## 🧠 About Me
+I've been building software professionally since 2019 — starting with web backends, then expanding into mobile, DevOps, 3D web, and eventually AI/ML. In 2024 I founded **Plivix Technologies**, a boutique software studio where I lead architecture and engineering for client products across full-stack web, AI automation, and data science.
 
-I’m **Obaid Ur Rahman Zia**, a **Full-Stack Developer since 2019** and the **Founder of Plivix**, building scalable, high-quality digital products.
-
-I work across **web, mobile, 3D, and infrastructure**, combining strong engineering with clean UI/UX.
+Currently running parallel tracks: Product Lead & Full-Stack Engineer at **Visiontillion** (3D print-ready e-commerce platform, AWS infrastructure, AI pipelines), Engineering Manager at **Switch2iTech** (30+ deployed systems, independent VPS management), and active freelance work on Fiverr and Upwork with clients across the US, UK, and Canada.
 
 ---
 
-## 💼 Current Roles & Work
+## What I Work On
 
+**Full-Stack Web** — Next.js, React, Node.js, TypeScript. REST and GraphQL APIs. MongoDB, PostgreSQL. I lean toward clean architecture and have shipped systems at production scale, not just demos.
 
-| Role | Company / Platform | Key Technologies |
-|------|-----------------|----------------|
-| 3D Web Developer | Visiontillion | Three.js, React Three Fiber |
-| Manager & DevOps Engineer | Switch2iTech | CI/CD, Server Management, Cloud |
-| Founder & Lead Engineer | Plivix | Full-Stack Web, Mobile Apps |
-| Freelancer | Fiverr & Upwork | Full-Stack, 3D, DevOps |
-| Seller Level | Fiverr | Level One |
-| Service Provider | Upwork | Multiple International Clients |
+**AI & Machine Learning** — Classification, regression, time series forecasting (SARIMA, LSTM), NLP, deep learning (CNN, RNN, GRU), explainability (SHAP, LIME). Currently working with InsightFace, YOLOv8, and transformer-based models. Model deployment via Streamlit and FastAPI.
 
+**3D & Interactive Web** — Three.js, React Three Fiber, WebGL. Shader optimization, performance-first 3D experiences in the browser.
 
----
+**DevOps & Infrastructure** — Docker, Linux, Nginx, VPS management (Dokploy, self-hosted). CI/CD pipelines. AWS (S3, SQS, EC2), GCP, Azure. I manage my own servers and have built n8n automation pipelines in production.
 
-## 🧭 Experience Timeline
-
-2019 ───────────────────────────────▶ Present
-
-├─ Full-Stack Web Development  
-├─ Backend APIs & Database Architecture  
-├─ Mobile Application Development (React Native)  
-├─ Founder & Lead Engineer @ Plivix  
-├─ DevOps & Server / Infrastructure Management  
-├─ 3D Web Development (Three.js & React Three Fiber)  
-└─ Freelancing & Client Services (Fiverr & Upwork)
+**Mobile** — React Native (cross-platform, Expo). Shipped multiple apps for clients.
 
 ---
 
-## 🧩 Core Expertise
+## Selected Projects
 
-### 💻 Full-Stack Development
-- Next.js, React, Node.js
-- REST & GraphQL APIs
-- MongoDB, PostgreSQL, MySQL
-- React Native
+**VStore AI / Visiontillion** — AI-powered 3D print marketplace *(Next.js, Node.js, AWS S3/SQS, Python, Blender, Three.js, Meshy.ai)*. End-to-end 3D generation pipeline with AI mesh creation, automated Blender repair, Trimesh validation, printability scoring, overhang detection, and scalable AWS job processing.
 
-### 🎮 3D & Interactive Web
-- Three.js
-- React Three Fiber
-- Web-based 3D Experiences
-- Shader & Performance Optimization
+**Chomperz** — Web2.5 idle browser game *(Next.js, Node.js, MongoDB, PixiJS/Phaser, Socket.io, Solidity, Alchemy)*. NFT-powered game economy featuring Territory Maps, King of the Hill mechanics, wallet authentication (SIWE), anti-cheat systems, and real-time multiplayer architecture.
 
-### ⚙️ DevOps & Infrastructure
-- Docker & Kubernetes
-- CI/CD Pipelines
-- Linux, Nginx
-- VPS & Cloud Server Management
-- AWS, GCP, Azure
+**N4NoCode** — AI-powered website builder *(Next.js, React, PostgreSQL, Prisma, tRPC, Inngest)*. Natural-language website generation platform with async job orchestration, type-safe APIs, and scalable project management infrastructure.
 
-### 🤖 Data Science & AI
+**SoftDraw** — Real-time collaborative whiteboard *(Next.js, React, Prisma, Clerk, Liveblocks)*. Multiplayer canvas application with live cursor presence, room-based collaboration, authentication, and persistent workspace management.
 
-- Data Analysis & Exploratory Data Analysis (EDA)
-- Data Cleaning & Feature Engineering
-- Machine Learning Models (Classification, Regression, Clustering)
-- Model Optimization & XGBoost
-- Explainable AI (SHAP, LIME)
-- NLP Applications (Text Classification, Sentiment Analysis)
-- Time Series Forecasting (AR, MA, ARMA, SARIMA, SARIMAX)
-- Deep Learning (ANN, CNN, RNN, LSTM, GRU)
-- Data Visualization (Matplotlib, Seaborn, Plotly)
-- ML Model Deployment with Streamlit
+**Distribution Management System** — Multi-tenant SaaS platform *(Node.js, React, PostgreSQL)*. Production-grade distribution and finance management solution featuring accounting, inventory control, quotations, purchase/sales workflows, and tenant-specific analytics dashboards.
+
+**Plivix Technologies** — Company website and lead-generation platform *(Next.js, Tailwind CSS, Vercel, SEO)*. Corporate site achieving first-page Google rankings with optimized service pages, portfolio management, and conversion-focused lead capture flows.
+
+> Most client repositories are private. The above are projects I can reference publicly.
 
 ---
 
-## 🛠 Tech Stack
+## Background
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,threejs,ts,js,nodejs,python,figma,git,docker,kubernetes,linux,nginx,mongodb,postgres,redis,aws,gcp,azure,tailwind,reactnative&perline=7" />
-  <img src="https://skillicons.dev/icons?i=nextjs,react,threejs,ts,js,nodejs,python,tensorflow,sklearn,docker,kubernetes,linux,nginx,mongodb,postgres,redis,aws,gcp,azure,tailwind,reactnative&perline=7" />
-</p>
+BS Software Engineering, University of Sargodha (CGPA 3.88). I've been freelancing since my first year of university and have consistently worked on production systems alongside academics.
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=obaid-ur-rahman-zia&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obaid-ur-rahman-zia&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=obaid-ur-rahman-zia&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&hide_border=true" />
-</p>
-
----
-
-## 🌍 Freelance & Business
-
-- 🏢 Founder & Lead Engineer – Plivix  
-- 🏆 Fiverr Level One Seller  
-- 💼 Upwork (BH Region)  
-- 🤝 Multiple International Clients  
-
-> **Note:** Most professional repositories are private for client confidentiality.
-
----
-
-## 📬 Contact
-
-<p align="center">
+<p>
   <a href="mailto:obaid107333@gmail.com">
-    <img src="https://img.shields.io/badge/Email-obaid107333@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-obaid107333%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
-### ⚡ Philosophy
-
-> *“Code is not just about functionality — it’s about experience, performance, and scalability.”*
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=obaid-ur-rahman-zia&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obaid-ur-rahman-zia&theme=tokyonight&hide_border=true" height="150" />
+</p>
